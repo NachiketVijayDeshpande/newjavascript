@@ -1,0 +1,62 @@
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family:'Times New Roman', Times, serif,Ubuntu, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#main{
+    background: teal ;
+    border-radius: 30px;
+    padding: 10px;
+    border: 10px solid ;
+    width: 500px;
+    margin: 30px auto;
+    
+}
+#profile{
+    background: url(/yarn.jpeg) ;
+    border-radius: 30px;
+    background-size: cover;
+    padding: 10px;
+    border: 10px solid ;
+    width: 500px;
+    height: 300%;
+    margin: 30px auto;
+    color: white;
+    text-shadow: px 1px 10px;
+}
+#linkedin{
+    color: white;
+    text-shadow: 10px 10px 100px ;
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
